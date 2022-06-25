@@ -13,26 +13,23 @@
             blink.style.opacity = 
             (blink.style.opacity == 0 ? 1 : 0);
         }, 600); 
-    </script>
-<hr>
-    </head>
-    	
-    		  			
-    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+		</script></center></head><hr>
+	<center>
+    			<select style="font-size:20px; text-align:center;" name="links" onchange="window.location.href=this.value;">
     				<option value="HamariHindi.html">HOME</option>
     				<option value="HamariHindi.html">GO TO HOME PAGE</option>
     				</select>		
-    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+    			<select style="font-size:20px; text-align:center;" name="links" onchange="window.location.href=this.value;">
     				<option value="HamariHindi.html">TEXT BOOKS</option>
     				<option value="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI">10</option>
     				<option value="https://t.me/hamarihindichannel">9</option>
     				<option value="">8</option>
     				<option value="">7</option>
     				<option value="">6</option></select>
-    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+    			<select style="font-size:20px; text-align:center;" name="links" onchange="window.location.href=this.value;">
     				<option value="HamariHindi.html">VIDEOS</option>s
     				<option value="https://www.youtube.com/c/HAMARIHINDI/videos">GO TO VIDEOS</option>
-    				</select>55
+    				</select>
 		<table>
 		<tr>
 			<td style="background-color:green;"><a href="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI"><img src="whattsapp.png" alt="Whattsapp" width="80" height="80"></a></td>
