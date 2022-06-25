@@ -1,7 +1,6 @@
-<!doctype html>
 <html>
 <title>HAMARI HINDI</title>
-<body bgcolor="LightGray">
+<body style="background-color:LightGray;">
 <head>
 	<center>
 	<img src="Bharat-mata.png" alt="bharatamata" width="150" height="200">
