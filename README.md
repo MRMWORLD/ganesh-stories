@@ -1,22 +1,46 @@
-# ganesh-stories
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
 <title>HAMARI HINDI</title>
-</head>
-<body bgcolor="skyblue">
-<div id="menu" align="middle" >
-<a href="/index.htm">HOME</a> |
-<a href="/about/contact_us.htm">CONTACT</a> | 
-<a href="/about/index.htm">ABOUT</a>
-</div>
-<div id="content" align="center" bgcolor="white">
-<u><h1 style="color:red;">HAMARI HINDI</h1></u>
-<p style="color:green;">CLICK HERE</P>
-<a href="https://youtube.com/c/HAMARIHINDI"> <img src="Bharat-mata.png" width="104" height="142"> </a>
-</div>
-<p>अब माता पारवती वापस लौटी तो वो बहुत दुखी हुई और ज़ोर-ज़ोर से रोने लगी। शिवजी को जब पता चला की वह उनका स्वयं का पुत्र था तो उन्हें भी अपनी गलती का एहसास हुआ। शिवजी नें पारवती को बहुत समझाने का कोशिश किया पर वह नहीं मानी और गणेश का नाम लेते लेते और दुखित होने लगी।</p>
-<p>
-अंत में माता पारवती नें क्रोधित हो कर शिवजी को अपनी शक्ति से गणेश को दोबारा जीवित करने के लिए कहा। शिवजी बोले – हे पारवती में गणेश को जीवित तो कर सकता हूँ पर किसी भी अन्य जीवित प्राणी के सीर को जोड़ने पर ही। माता पारवती रोते-रोते बोल उठी – मुझे अपना पुत्र किसी भी हाल में जीवित चाहिए।</p>
+<body bgcolor="LightGray">
+<head>
+	<center>
+	<img src="Bharat-mata.png" alt="bharatamata" width="150" height="200">
+	<div id="blink" style="font-size:70px; color:red;"><b> HAMARI HINDI </b></div>
+	<script type="text/javascript">
+        var blink = 
+            document.getElementById('blink');
+          setInterval(function () {
+            blink.style.opacity = 
+            (blink.style.opacity == 0 ? 1 : 0);
+        }, 600); 
+    </script>
+<hr>
+    </head>
+    	
+    		  			
+    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+    				<option value="HamariHindi.html">HOME</option>
+    				<option value="HamariHindi.html">GO TO HOME PAGE</option>
+    				</select>		
+    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+    				<option value="HamariHindi.html">TEXT BOOKS</option>
+    				<option value="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI">10</option>
+    				<option value="https://t.me/hamarihindichannel">9</option>
+    				<option value="">8</option>
+    				<option value="">7</option>
+    				<option value="">6</option></select>
+    			<select style="font-size:30px; text-align:center;" name="links" onchange="window.location.href=this.value;">
+    				<option value="HamariHindi.html">VIDEOS</option>s
+    				<option value="https://www.youtube.com/c/HAMARIHINDI/videos">GO TO VIDEOS</option>
+    				</select>55
+		<table>
+		<tr>
+			<td style="background-color:green;"><a href="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI"><img src="whattsapp.png" alt="Whattsapp" width="80" height="80"></a></td>
+			<td style="background-color:deepskyblue;"><a href="https://t.me/hamarihindichannel"><img src="telegram.png" alt="Telegram" width="80" height="80"></a></td>
+			<td style="background-color:blue;">><a href="https://www.facebook.com/hamari.hindi.3"><img src="Fb.png" alt="Facebook" width="80" height="70"></a></td>
+		</tr>
+	</table><br>
+		<img src="hamri hindi.jpg" alt="HAMARI HINDI WALL PAPER" width="2000" height="400">
+</center>
 </body>
 </html>
