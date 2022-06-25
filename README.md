@@ -13,7 +13,7 @@
             		(blink.style.opacity == 0 ? 1 : 0);
         	}, 600); 
 	</script>
-	</head>
+</head>
 	<hr>
     		<select style="text-align:center;" name="links" onchange="window.location.href=this.value;">
     			<option value="HamariHindi.html">HOME</option>
@@ -30,9 +30,9 @@
     			<option value="https://www.youtube.com/c/HAMARIHINDI/videos">GO TO VIDEOS</option></select>
 	<table>
 	<tr>
-		<td style="background-color:green;"><a href="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI"><img src="whattsapp.png" alt="Whattsapp" width="40 height="40></a></td>
-		<td style="background-color:deepskyblue;"><a href="https://t.me/hamarihindichannel"><img src="telegram.png" alt="Telegram" width="40 height="40></a></td>
-		<td style="background-color:blue;"><a href="https://www.facebook.com/hamari.hindi.3"><img src="Fb.png" alt="Facebook" width="40 height="30></a></td>
+		<td style="background-color:green;"><a href="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI"><img src="" alt="Whattsapp" width="40 height="40></a></td>
+		<td style="background-color:deepskyblue;"><a href="https://t.me/hamarihindichannel"><img src="" alt="Telegram" width="40 height="40></a></td>
+		<td style="background-color:blue;"><a href="https://www.facebook.com/hamari.hindi.3"><img src="" alt="Facebook" width="40 height="30></a></td>
 		</tr>
 	</table><br>
 	<img src="hamri hindi.jpg" alt="HAMARI HINDI WALL PAPER" >
