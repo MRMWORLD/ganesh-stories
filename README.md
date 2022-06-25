@@ -34,7 +34,7 @@
 		<td style="background-color:blue;"><a href="https://www.facebook.com/hamari.hindi.3"><img src="Fb.png" alt="Facebook" width="40 height="30></a></td>
 		</tr>
 	</table><br>
-	<img src="hamri hindi.jpg" alt="HAMARI HINDI WALL PAPER" width="2000" height="400">
+	<img src="hamri hindi.jpg" alt="HAMARI HINDI WALL PAPER" >
 </center>
 </body>
 </html>
