@@ -13,7 +13,7 @@
             (blink.style.opacity == 0 ? 1 : 0);
         }, 600); 
 		</script></center></head><hr>
-	<center>
+<center>
     		<select style="font-size:20px; text-align:center;" name="links" onchange="window.location.href=this.value;">
     			<option value="HamariHindi.html">HOME</option>
     			<option value="HamariHindi.html">GO TO HOME PAGE</option></select>		
@@ -31,7 +31,7 @@
 	<tr>
 		<td style="background-color:green;"><a href="https://chat.whatsapp.com/DWygQUrZk0iG5Xtb1xNTAI"><img src="whattsapp.png" alt="Whattsapp" width="80" height="80"></a></td>
 		<td style="background-color:deepskyblue;"><a href="https://t.me/hamarihindichannel"><img src="telegram.png" alt="Telegram" width="80" height="80"></a></td>
-		<td style="background-color:blue;">><a href="https://www.facebook.com/hamari.hindi.3"><img src="Fb.png" alt="Facebook" width="80" height="70"></a></td>
+		<td style="background-color:blue;"><a href="https://www.facebook.com/hamari.hindi.3"><img src="Fb.png" alt="Facebook" width="80" height="70"></a></td>
 		</tr>
 	</table><br>
 	<img src="hamri hindi.jpg" alt="HAMARI HINDI WALL PAPER" width="2000" height="400">
