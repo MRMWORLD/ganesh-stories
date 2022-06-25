@@ -13,7 +13,6 @@
             (blink.style.opacity == 0 ? 1 : 0);
         }, 600); 
 		</script></center></head><hr>
-<center>
     		<select text-align:center;" name="links" onchange="window.location.href=this.value;">
     			<option value="HamariHindi.html">HOME</option>
     			<option value="HamariHindi.html">GO TO HOME PAGE</option></select>		
